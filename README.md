@@ -18,6 +18,7 @@
 
 - Typescript.
 - Node.js/express, могу на базовом уровне писать серверные приложения, REST API.
+- SQL (PostgreSQL)
 
 ## Стек:
 
