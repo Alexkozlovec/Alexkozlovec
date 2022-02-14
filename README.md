@@ -32,11 +32,6 @@
 - Бандлеры: Gulp/Webpack/Vite.
 - Различные решения для создания слайдеров/тултипов и прочих интерактивных элементов. 
 
-## Достижения:
-Успешно окончил курс [HTML и CSS. Профессиональная вёрстка сайтов](https://htmlacademy.ru/intensive/htmlcss)<br/>
-
-![](sertificate.jpg)
-
 ## Контакты
 
 email - kozlovetsalexandr@gmail.com
