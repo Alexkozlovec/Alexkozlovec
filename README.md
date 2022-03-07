@@ -1,39 +1,38 @@
-# 👋 Привет! Меня зовут Александр, я frontend/mobile (React Native) разработчик.
+# 👋 Hello! My name is Aleksandr, i am frontend/mobile(React Native) developer.
 
-Я имею уже более 1.5 года опыта разработки фронтенд-приложений на React / Vue.js, а также кроссплатформенных мобильных приложений на React-Native.
+I have a strong passion on building great user experiences and learning new concepts to improve my skills everyday.
 <hr/>
 
 ![](gitlab-screenshot.png)
 
-## Что умею:
+## I know how to:
 
-- Адаптивно верстать, используя сборщики, оптимизацию файлов, создаю кроссбраузерную семантически корректную разметку, и лаконичные стили без лишних костылей:)
-- Умею создавать анимации, различные эффекты как с помощью популярных библиотек, так и на нативном css+js если подключение сторонних решений - оверхед.
-- Умею работать с множеством решений экосистем React/React-Native/Vue для роутинга/стейт-менеджмента/локализации/создания форм в том числе со сложной логикой/валидацией.
-- Cоздавать приятный пользовательский опыт как на вышеуказанных фреймворках так и на стандартных HTML/CSS/JS.
-- Работать в команде используя Git, Github, Gitlab, Trello.
-- Хорошо владею английским языком, на уровне свободного просмотра контента, чтения материалов в том числе технических, поддержания диалога, гуглю тоже на нем:D
+- Create responsive layouts, with using the most modern technicues, following semantics, accessibility, BEM methodology.
+- Optimize resources, to achieve the best loading speeds. For example static assets compression and also reducing bundle sizes, code splitting.
+- Creating cool animations with usage of popular libraries and also with native css if including libraries is an overhead.
+- Manage state with Redux (thunk, toolkit), Vuex.
+- Use Git, GitHub, GitLab, Trello for working on team.
+- Good english, enought for flawless communication, reading technical docs etc..
+- Use a lot of React/React Native/Vue ecosystems related plugins and libraries for localizations, ui elements, routing etc...
 
-## Изучаю:
+## What i study:
 
-- Node.js/express, могу на базовом уровне писать серверные приложения, REST API.
+- Node.js/express/Nest, i am able to create simple REST API, more soon:)
 - SQL (PostgreSQL)
 
-## Стек:
+## Techologies i work with:
 
-- Разметка: Семантика и правильная БЭМ-структура.
-- Стили: Адаптивность, pixel-perfect, кроссбраузерность, оптимизация ресурсов. Использую SCSS, PostCSS, Tailwind
-- JS: Хорошо знаю ES6 синтаксис, Typescript.
-- Фреймворки: React(ага, библиотека🤓), React-Native, Vue.
-- Стейт менеджмент: Redux, Redux-Toolkit, Redux-thunk, Vuex.
-- Роутинг: Vue-Router, React-Router, React-Navigation.
-- Анимации: GSAP, AOS, CSS-анимации, прочие решения по необходимости
-- Локализация: Vue-i18n, React-i18next.
-- Бандлеры: Gulp/Webpack/Vite.
-- Различные решения для создания слайдеров/тултипов и прочих интерактивных элементов. 
+- SCSS, PostCSS, Tailwind, Bootstrap, MUI.
+- JS ES6+, TypeScript.
+- React, React Native, Vue.
+- Redux (toolkit, thunk) and Vuex.
+- React-Router, React-Navigation, Vue-Router.
+- GSAP, React-Spring, AOS, CSS-animations, any other if needed.
+- Vue-i18n, React-i18next for localizations.
+- Gulp/Webpack/Vite for bundling.
 
-## Контакты
+## Contacts
 
-email - kozlovetsalexandr@gmail.com
+Email - kozlovetsalexandr@gmail.com
 
-telegram - @AlexandrK8118
+Telegram - @AlexandrK8118
