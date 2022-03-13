@@ -8,10 +8,9 @@ I have a strong passion on building great user experiences and learning new conc
 
 - Create responsive layouts, with using the most modern technicues, following semantics, accessibility, BEM methodology.
 - Optimize resources, to achieve the best loading speeds. For example static assets compression and also reducing bundle sizes, code splitting.
-- Creating cool animations with usage of popular libraries and also with native css if including libraries is an overhead.
+- Create impressive animations with usage of popular libraries and also with native css if including libraries is an overhead.
 - Manage state with Redux (thunk, toolkit), Vuex.
 - Use Git, GitHub, GitLab, Trello for working on team.
-- Good english, enought for flawless communication, reading technical docs etc..
 - Use a lot of React/React Native/Vue ecosystems related plugins and libraries for localizations, ui elements, routing etc...
 
 ## What i study:
@@ -29,6 +28,12 @@ I have a strong passion on building great user experiences and learning new conc
 - GSAP, React-Spring, AOS, CSS-animations, any other if needed.
 - Vue-i18n, React-i18next for localizations.
 - Gulp/Webpack/Vite for bundling.
+
+## Soft-skills
+- High responsibility
+- Always open for communications and new contacts
+- Good english ( B2 accoring to tests ), easily reding docs, communicating.
+- I like helping people to solve tasks in which i can advice how to.
 
 ## Contacts
 
