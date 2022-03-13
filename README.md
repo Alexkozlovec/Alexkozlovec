@@ -32,6 +32,8 @@ I have a strong passion on building great user experiences and learning new conc
 
 ## Contacts
 
-Email - kozlovetsalexandr@gmail.com
+[Email](mailto:kozlovetsalexandr@gmail.com)
 
-Telegram - @AlexandrK8118
+[Telegram](https://t.me/AlexandrK8118)
+
+[LinkedIn](https://www.linkedin.com/in/oleksandr-kozlovets-57aab7231/)
