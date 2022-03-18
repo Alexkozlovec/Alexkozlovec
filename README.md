@@ -15,7 +15,7 @@ I have a strong passion on building great user experiences and learning new conc
 
 ## Technologies i work with:
 
-- SCSS, PostCSS, Tailwind, Bootstrap, MUI.
+- SCSS, PostCSS, Tailwind, Bootstrap.
 - JS ES6+, TypeScript.
 - React, React Native, Vue.
 - Redux (Toolkit, Thunk) and Vuex.
