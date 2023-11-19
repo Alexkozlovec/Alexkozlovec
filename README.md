@@ -12,7 +12,7 @@
 
 💅 **Styling**: Css modules, SCSS, PostCSS, Tailwind, ...\
 👨‍💻 **Coding**: JS ES6+, TypeScript.\
-🖥️ **Frontend**: React, Vue.\
+🖥️ **Frontend**: React, Vue (+Next/Nuxt).\
 📱 **Mobile**: React Native.\
 🔁 **State Management and APIs**: Tanstack Query, Redux (+Toolkit), Vuex, Pinia.\
 🚏 **Routing**: React Router, React Navigation, Vue Router.\
