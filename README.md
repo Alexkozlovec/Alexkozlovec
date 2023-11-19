@@ -14,7 +14,7 @@
 👨‍💻 **Coding**: JS ES6+, TypeScript.\
 🖥️ **Frontend**: React, Vue.\
 📱 **Mobile**: React Native.\
-🔁 **State** Management and APIs: Tanstack Query, Redux (+Toolkit), Vuex, Pinia.\
+🔁 **State Management and APIs**: Tanstack Query, Redux (+Toolkit), Vuex, Pinia.\
 🚏 **Routing**: React Router, React Navigation, Vue Router.\
 🤩 **Animations**: GSAP, React Spring, Framer Motion, Reanimated, Moti, AOS, CSS-animations.\
 🌐 **Localization**: i18n.\
