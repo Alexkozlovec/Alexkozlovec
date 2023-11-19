@@ -1,4 +1,4 @@
-# 👋 Hello! My name is Alex. I build great user experiences.
+# 👋 Hello! I'm Alex. I build great user experiences.
 
 ## I am experienced in:
 
