@@ -1,6 +1,6 @@
 # 👋 Hello! My name is Aleksandr, i am frontend/mobile(React Native) developer.
 
-I have a strong passion on building great user experiences and learning new concepts to improve my skills everyday.
+I build great user experiences.
 
 ## I know how to:
 
