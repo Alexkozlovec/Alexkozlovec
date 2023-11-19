@@ -1,31 +1,40 @@
-# 👋 Hello! My name is Aleksandr, i am frontend/mobile(React Native) developer.
+# 👋 Hello! My name is Alex. I build great user experiences.
 
-I build great user experiences.
+## I am experienced in:
 
-## I know how to:
-
-- Create responsive layouts, using the most modern technicues, following semantics, accessibility, BEM methodology.
-- Optimize resources, to achieve the best performance. For example static assets compression, reducing bundle sizes, code splitting.
-- Create impressive animations with usage of popular libraries and native CSS if including libraries is an overhead.
-- Manage state with Redux (Thunk, Toolkit), Vuex.
-- Use Git, GitHub, GitLab, Trello for working on team.
-
+- Creating responsive web/mobile interfaces, using the most modern technicues. Including semantics, accessibility, BEM methodology, etc ...
+- Optimizing app's resources to achieve the best performance. Such as static assets compression, reducing bundle sizes, code splitting.
+- Creating impressive animations using popular libraries and native CSS.
+- Managing state and organizing work with APIs.
+- Adding common mobile apps features such as push notifications, deep linking etc ...
 
 ## Technologies i work with:
 
-- SCSS, PostCSS, Tailwind, Bootstrap.
-- JS ES6+, TypeScript.
-- React, React Native, Vue.
-- Redux (Toolkit, Thunk) and Vuex.
-- React Router, React Navigation, Vue Router.
-- GSAP, React Spring, AOS, CSS-animations, any other if needed.
-- Vue-i18n, React-i18next.
-- Gulp, Webpack, Vite.
+💅 **Styling**: Css modules, SCSS, PostCSS, Tailwind, ...
+👨‍💻 **Coding**: JS ES6+, TypeScript.
+🖥️ **Frontend**: React, Vue.
+📱 **Mobile**: React Native.
+🔁 **State** Management and APIs: Tanstack Query, Redux (+Toolkit), Vuex, Pinia.
+🚏 **Routing**: React Router, React Navigation, Vue Router.
+🤩 **Animations**: GSAP, React Spring, Framer Motion, Reanimated, Moti, AOS, CSS-animations.
+🌐 **Localization**: i18n.
+📦 **Bundling**: Vite, Webpack, gulp.
+✅ **Organizing my work**: Git, Todoist, Trello, Git(hub/lab).
+Much more.
+
+## Portfolio
+
+DM for examples.
 
 ## What i study:
 
 - Node.js (Nest/FastApi)
-- SQL (PostgreSQL)
+- SQL
+- Web3 related tools
+
+## What i'm interested in:
+- Crypto | NFT
+- Shitposting
 
 ## Contacts
 
