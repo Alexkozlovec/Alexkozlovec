@@ -2,8 +2,6 @@
 
 I have a strong passion on building great user experiences and learning new concepts to improve my skills everyday.
 
-![](gitlab-screenshot.png)
-
 ## I know how to:
 
 - Create responsive layouts, using the most modern technicues, following semantics, accessibility, BEM methodology.
