@@ -10,16 +10,16 @@
 
 ## Technologies i work with:
 
-💅 **Styling**: Css modules, SCSS, PostCSS, Tailwind, ...
-👨‍💻 **Coding**: JS ES6+, TypeScript.
-🖥️ **Frontend**: React, Vue.
-📱 **Mobile**: React Native.
-🔁 **State** Management and APIs: Tanstack Query, Redux (+Toolkit), Vuex, Pinia.
-🚏 **Routing**: React Router, React Navigation, Vue Router.
-🤩 **Animations**: GSAP, React Spring, Framer Motion, Reanimated, Moti, AOS, CSS-animations.
-🌐 **Localization**: i18n.
-📦 **Bundling**: Vite, Webpack, gulp.
-✅ **Organizing my work**: Git, Todoist, Trello, Git(hub/lab).
+💅 **Styling**: Css modules, SCSS, PostCSS, Tailwind, ...\n
+👨‍💻 **Coding**: JS ES6+, TypeScript.\n
+🖥️ **Frontend**: React, Vue.\n
+📱 **Mobile**: React Native.\n
+🔁 **State** Management and APIs: Tanstack Query, Redux (+Toolkit), Vuex, Pinia.\n
+🚏 **Routing**: React Router, React Navigation, Vue Router.\n
+🤩 **Animations**: GSAP, React Spring, Framer Motion, Reanimated, Moti, AOS, CSS-animations.\n
+🌐 **Localization**: i18n.\n
+📦 **Bundling**: Vite, Webpack, gulp.\n
+✅ **Organizing my work**: Git, Todoist, Trello, Git(hub/lab).\n
 Much more.
 
 ## Portfolio
