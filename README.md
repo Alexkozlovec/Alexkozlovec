@@ -24,19 +24,11 @@ I have a strong passion on building great user experiences and learning new conc
 
 ## What i study:
 
-- Node.js (Express/Nest). I am able to create a simple REST API, more soon:)
+- Node.js (Nest/FastApi)
 - SQL (PostgreSQL)
-
-## Soft-skills
-- High responsibility
-- Always open for communications and new contacts
-- Good english ( B2 accoring to tests ), easily reading docs, communicating.
-- I like helping people to solve tasks in which i can advice how to.
 
 ## Contacts
 
 [Email](mailto:kozlovetsalexandr@gmail.com)
 
 [Telegram](https://t.me/AlexandrK8118)
-
-[LinkedIn](https://www.linkedin.com/in/oleksandr-kozlovets-57aab7231/)
