@@ -35,6 +35,7 @@ DM for examples.
 ## What i'm interested in:
 - Crypto | NFT
 - Shitposting
+- Any profitable stuff that can be done with laptop and cup of coffee.
 
 ## Contacts
 
